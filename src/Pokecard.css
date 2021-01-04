@@ -1,9 +1,45 @@
 .Pokecard {
     background-color: grey;
     text-align: center;
-    margin: 10px;
+    margin: 30px 15px;
+    padding: 15px;
+    width: 340px;
+    border-radius: 5px;
 }
 
 .Pokecard-name {
-    color: blueviolet;
+    color: #000;
+    letter-spacing: 2px;
+}
+
+.Pokecard-data {
+    font-size: 120%;
+}
+
+.Pokecard-water {
+    background-color: #1E90FF;
+}
+
+.Pokecard-fire {
+    background-color: #FF4500;
+}
+
+.Pokecard-bug {
+    background-color: green;
+}
+
+.Pokecard-flying {
+    background-color: grey;
+}
+
+.Pokecard-electric {
+    background-color: yellow;
+}
+
+.Pokecard-normal {
+    background-color: #FFEFD5;
+}
+
+.Pokecard-ghost {
+    background-color: #EE82EE;
 }
