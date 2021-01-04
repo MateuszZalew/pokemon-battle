@@ -1,0 +1,9 @@
+.Pokecard {
+    background-color: grey;
+    text-align: center;
+    margin: 10px;
+}
+
+.Pokecard-name {
+    color: blueviolet;
+}

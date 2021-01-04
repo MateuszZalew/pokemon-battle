@@ -1,0 +1,12 @@
+.Pokedex-header {
+    text-align: center;
+    color: grey;
+    font-size: 3em;
+    letter-spacing: 2px;
+}
+
+.Pokedex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
