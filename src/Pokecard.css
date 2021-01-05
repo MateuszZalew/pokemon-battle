@@ -17,29 +17,45 @@
 }
 
 .Pokecard-water {
-    background-color: #1E90FF;
+    background-color: #6890F0;
 }
 
 .Pokecard-fire {
-    background-color: #FF4500;
+    background-color: #F08030;
 }
 
 .Pokecard-bug {
-    background-color: green;
+    background-color: #A8B820;
 }
 
 .Pokecard-flying {
-    background-color: grey;
+    background-color: #A890F0;
 }
 
 .Pokecard-electric {
-    background-color: yellow;
+    background-color: #F8D030;
 }
 
 .Pokecard-normal {
-    background-color: #FFEFD5;
+    background-color: #A8A878;
 }
 
 .Pokecard-ghost {
-    background-color: #EE82EE;
+    background-color: #705898;
+}
+
+.Pokecard-fairy {
+    background-color: #EE99AC;
+}
+
+.Pokecard-dragon {
+    background-color: #7038F8;
+}
+
+.Pokecard-ground {
+    background-color: #E0C068;
+}
+
+.Pokecard-psychic {
+    background-color: #F85888;
 }
