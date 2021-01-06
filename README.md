@@ -2,9 +2,9 @@
 
 https://fontmeme.com/pokemon-font/ - pokemon header
 
-#Pokemon Battle 
+# Pokemon Battle 
 
-Click [here](https://mateuszzalew.github.io/pokemon-battle/) to see the project!
+Click <a href="https://mateuszzalew.github.io/pokemon-battle/" target="_blank">here</a> to see the project!
 
 # Getting Started with Create React App
 
