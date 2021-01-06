@@ -2,10 +2,6 @@
 
 https://fontmeme.com/pokemon-font/ - pokemon header
 
-# Pokemon Battle 
-
-Click <a href="https://mateuszzalew.github.io/pokemon-battle/" target="_blank">here</a> to see the project!
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
